@@ -1,8 +1,11 @@
 # CashFlowLab – Estudo de Lógica de Sistema Financeiro Pessoal
 
-[![UI/UX-Premium](https://img.shields.io/badge/UI/UX-Premium-blueviolet)](#)
-[![Engine-React](https://img.shields.io/badge/Engine-React_18-61DAFB)](#)
-[![Animation-Framer](https://img.shields.io/badge/Animation-Framer_Motion-ff0055)](#)
+[![Engine-React](https://img.shields.io/badge/Engine-React_18-61DAFB)](#)  
+[![Animation-Framer](https://img.shields.io/badge/Animation-Framer_Motion-ff0055)](#)  
+[![Logic-Study](https://img.shields.io/badge/Logic-Study-orange)](#)  
+[![Algorithm](https://img.shields.io/badge/Algorithm-Exploration-green)](#)  
+[![Performance](https://img.shields.io/badge/Performance-Optimized-blue)](#)  
+[![Study-Version](https://img.shields.io/badge/Version-Study_1.0-lightgrey)](#)
 
 Esse repositório é um **resumo de estudo de lógica** de um sistema financeiro pessoal que estou desenvolvendo.  
 O objetivo é demonstrar **a arquitetura, fluxo de dados e lógica de negócios** de lançamentos financeiros, filtragem, cálculos de saldo e interações de forma clara.
