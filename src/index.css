@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vortex-purple: #7c3aed;
+  --color-vortex-dark: #09090b;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-vortex-dark);;
+  color: white;
+  overflow-x: hidden;
+}
+
+.glass-card {
+  background: rgba(24, 24, 27, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(124, 58, 237, 0.1);
+}
+
+/* Brilho de fundo */
+.bg-glow {
+  position: fixed;
+  top: -150px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(124, 58, 237, 0.15) 0%, rgba(0,0,0,0) 70%);
+  pointer-events: none;
+  z-index: 0;
+}
