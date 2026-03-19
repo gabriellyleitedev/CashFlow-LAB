@@ -1,6 +1,6 @@
 # CashFlowLab – Estudo de Lógica de Sistema Financeiro Pessoal
 
-Este repositório é um **resumo de estudo de lógica** de um sistema financeiro pessoal que estou desenvolvendo.  
+Esse repositório é um **resumo de estudo de lógica** de um sistema financeiro pessoal que estou desenvolvendo.  
 O objetivo é demonstrar **a arquitetura, fluxo de dados e lógica de negócios** de lançamentos financeiros, filtragem, cálculos de saldo e interações de forma clara.
 
 > ⚠️ Nota: O foco é **aprender e mostrar a lógica do código**, não o design ou a interface.
